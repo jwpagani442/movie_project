@@ -2,7 +2,7 @@
 The Fresh Tomatoes website displays some of my favorite movies in a static web page.  Clicking on the movie poster will play the trailer for the movie.
 
 ## Python
-Confirm Python 2.7 is installed on your machine.  More information regarding installation of Python can be found [here](https://www.python.org/downloads/).:
+Confirm Python 2.7 is installed on your machine.  More information regarding installation of Python can be found [here](https://www.python.org/downloads/).
 
 
 ## Installation
