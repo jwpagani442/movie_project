@@ -13,6 +13,7 @@ Open your terminal and use the following command to clone the project on a Mac (
 Access the folder where the repository has been downloaded, and run the following command:
   - $ python entertainment_center.py
 
-
+## Results
+The program should execute and display the following:
 
 
