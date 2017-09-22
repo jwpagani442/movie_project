@@ -14,6 +14,6 @@ Access the folder where the repository has been downloaded, and run the followin
   - $ python entertainment_center.py
 
 ## Results
-The program should execute and display the following:
+The program should execute and display this [page](https://github.com/jwpagani442/movie_project/blob/master/Movie_site.jpeg).
 
 
