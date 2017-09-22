@@ -34,7 +34,7 @@ looper = media.Movie("Looper",
                         "https://www.youtube.com/watch?v=5AXwtch744A")
 
 #Movies dictionary
-movies = [toy_story,avatar,inception,dark_knight,star_wars,looper]
+movies = [the_sting,avatar,inception,dark_knight,star_wars,looper]
 
 #Call fresh_tomatoes class to create HTML page
 fresh_tomatoes.open_movies_page(movies)
